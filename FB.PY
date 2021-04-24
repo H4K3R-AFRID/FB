@@ -4,14 +4,6 @@ import time
 time.sleep(4)
 print(Fore.REd+Sys.BRIGHT+"CODED BY SHAIK AFRID :)")
 time.sleep(4)
-A="
-███████╗██████╗░
-██╔════╝██╔══██╗
-█████╗░░██████╦╝
-██╔══╝░░██╔══██╗
-██║░░░░░██████╦╝
-╚═╝░░░░░╚═════╝░"
-PRINT(Fore.RED+Sys.BRIGHT+A)
 a="fb login"
 b="fake login"
 c="fake password"
