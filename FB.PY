@@ -1,5 +1,5 @@
 import colorama 
-from colorama import *
+from colorama import Fore,Sys,Back
 import time 
 time.sleep(4)
 print(Fore.RED+Sys.BRIGHT+"CODED BY SHAIK AFRID :)")
