@@ -18,7 +18,7 @@ x=input("INPUT WHAT U WANT:-")
 time.sleep(4)
 print("PLESE WAIT...../")
 time.sleep(2)
-if x==a ;
+if x==a :
 d=input(Fore.REd+Sys.BRIGHT+ENTER UR FACEBOOK ID:-")
 e=nput(Fore.REd+Sys.BRIGHT+ENTER FACEBOOK PASSWORD:-")
 print(Fore.yellOW+SELECTED SUCESSFULLY:)")
